@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Darts Challenge", "Simple Darts Challenge\Simple Darts Challenge.csproj", "{3476FE30-494A-4290-9B51-3961D224BFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dart", "Dart\Dart.csproj", "{5BCAAC78-4D51-4C54-A92D-2414EA32AA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3476FE30-494A-4290-9B51-3961D224BFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3476FE30-494A-4290-9B51-3961D224BFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3476FE30-494A-4290-9B51-3961D224BFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3476FE30-494A-4290-9B51-3961D224BFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCAAC78-4D51-4C54-A92D-2414EA32AA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCAAC78-4D51-4C54-A92D-2414EA32AA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCAAC78-4D51-4C54-A92D-2414EA32AA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCAAC78-4D51-4C54-A92D-2414EA32AA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D7ECF8-A64A-4701-8C2B-37F996BBD152}
+	EndGlobalSection
+EndGlobal

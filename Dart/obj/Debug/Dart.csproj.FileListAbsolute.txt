@@ -1,0 +1,6 @@
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Dart\bin\Debug\Dart.dll
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Dart\bin\Debug\Dart.pdb
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Dart\obj\Debug\Dart.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Dart\obj\Debug\Dart.dll
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Dart\obj\Debug\Dart.pdb
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Dart\obj\Debug\Dart.csprojResolveAssemblyReference.cache

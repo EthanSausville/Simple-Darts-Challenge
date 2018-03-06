@@ -1,0 +1,11 @@
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\bin\Simple Darts Challenge.dll.config
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\bin\Simple Darts Challenge.dll
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\bin\Simple Darts Challenge.pdb
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\bin\Dart.dll
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\bin\Dart.pdb
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\obj\Debug\Simple Darts Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\obj\Debug\Simple Darts Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\obj\Debug\Simple Darts Challenge.dll
+C:\Users\Ethan\Documents\My Code\Simple Darts Challenge\Simple Darts Challenge\obj\Debug\Simple Darts Challenge.pdb
